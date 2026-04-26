@@ -13,4 +13,4 @@ Eu sou o Deivid, estou começando como Front End, sou novo e estou me indentific
 <div>
  <div>
   <img width="2344" height="870" alt="banner" src="https://github.com/user-attachments/assets/685ef7c8-23b9-46b0-873d-b26a6240c334" /></div>  
-- :email: deividbru@gmail.com
+:email: deividbru@gmail.com
